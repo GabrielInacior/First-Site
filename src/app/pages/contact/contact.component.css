@@ -1,0 +1,91 @@
+.font{
+	background-image: url(../../assets/img/sitefundo.png);
+	height:auto;
+	width: 100%;
+	background-position: center top;
+	background-size: cover;
+}
+.banner h1 {
+	font-size: 30px;
+	color: gray;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 80px;
+	padding-top: 50px;
+}
+.texto-inicial h1{
+	font-size: 4vmax;
+}
+.texto-inicial p {
+	font-size: 18px;
+}
+.para1 {
+	max-width: 600px;
+	font-weight: bold;
+	color: gray;
+	text-align: center;
+	margin-left: ;
+}
+.text2 {
+	padding-top: 20px;
+	text-align: center;
+	font-size: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	color: gray;
+}
+.text3 {
+	max-width: 300px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 40px;
+	color: gray;
+}
+
+.icone {
+	font-size: 100px;
+	padding-top: 30PX;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+	height: 50%;
+}
+.icone a {
+	color: gray;
+}
+.icone img {
+	width: 200px;
+}
+.figuras {
+	padding-top: 50px;
+}
+.textbook {
+	max-width: 500px;
+	font-size: 20px;
+	text-align: center;
+	color: gray;
+	padding-top: 20px;
+}
+.textbook2 {
+	max-width: 500px;
+	font-size: 20px;
+	text-align: center;
+	color: gray;
+	padding-top: 20px;
+}
+.bi-geo-alt-fill {
+	color: gray;
+}
+.bi-mortarboard {
+	color: gray;
+}
+
+.bi-whatsapp {
+	color: lightgreen;
+}
+.bi-instagram {
+	color: pink;
+}
+.foto img:hover {
+	transform: scale(1.2);
+}

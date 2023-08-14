@@ -1,0 +1,32 @@
+ .nav-item {
+ 	margin: 0-auto;
+ 	font-weight: bold;
+ 	margin-left: 20px;
+ }
+
+.navbar-brand {
+	margin-left: 20px;
+}
+.navbar-brand:hover {
+  transform: scale(1.2);
+}
+
+ .menu {
+
+	font-size: 18px;
+}
+ .home {
+
+	font-size: 18px;
+}
+ .contact {
+
+	font-size: 18px;
+}
+ .about {
+
+	font-size: 18px;
+}
+.nav-link {
+	color: lightgray;
+}
